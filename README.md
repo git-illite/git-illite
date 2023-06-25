@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://github.com/git-illite/illite/assets/71469298/0e883250-1fbf-4b45-97e5-0431fe9c35ad" width="400" height="300"/>
 </div>
----
+
 ### :man_technologist: About Me :
 I am a new graduate Web Developer from Toronto On. Canada
 - :telescope: I am actively seeking a Web Developer position where I can utilize my skills in both frontend and backend development to contribute towards the creation of dynamic web applications.
