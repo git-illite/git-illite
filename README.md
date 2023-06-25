@@ -36,5 +36,6 @@ I am a new graduate Web Developer from Toronto On. Canada
 </a>
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
 
