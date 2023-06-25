@@ -1,4 +1,3 @@
-# illite
 
 <div id="header" align="center">
   <img src="https://github.com/git-illite/illite/assets/71469298/479e1dbf-a294-44d1-b72e-0c8569e799b7" width="400"/>
@@ -16,10 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hello
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxrcW04Z2gzYWVhNHdodnVsNmVldmJrYmozaXExb3ltZDlhOGtjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" width="60px"/>
-</h1>
+<h1 align="center"></h1>
 <div align="center">
   <img src="https://github.com/git-illite/illite/assets/71469298/0e883250-1fbf-4b45-97e5-0431fe9c35ad" width="400" height="300"/>
 </div>
