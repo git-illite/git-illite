@@ -34,3 +34,7 @@ I am a new graduate Web Developer from Toronto On. Canada
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-aden-54987a75/) or <a href="mailto:abdallah.aden@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+
